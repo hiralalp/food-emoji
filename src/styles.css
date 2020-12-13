@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  background-color: bisque;
+}
+
+h1 {
+  font-size: 40px;
+  color: rgb(252, 174, 29);
+  letter-spacing: 0.2rem;
+}
+
+h2,
+span {
+  font-size: 34px;
+}
